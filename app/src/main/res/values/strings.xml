@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrafficLights</string>
+    <string name="start_search">Bluetooth</string>
+    <string name="start_control">START</string>
+    <string name="red_str">RED</string>
+    <string name="yellow_str">YELLOW</string>
+    <string name="green_str">GREEN</string>
+</resources>
